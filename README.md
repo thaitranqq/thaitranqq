@@ -37,7 +37,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [thaitranqq github](https://github.com/thaitranqq)
 
 - 💬 Ask me about **Java**
 
